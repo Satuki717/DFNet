@@ -8,9 +8,9 @@ cachetools==4.2.4
 certifi==2021.5.30
 cffi==1.14.5
 chardet==3.0.4
-conda==4.10.1
-conda-build==3.21.4
-conda-package-handling==1.7.3
+conda
+conda-build
+conda-package-handling
 ConfigArgParse==1.5.2
 cryptography==3.4.7
 cycler==0.10.0
